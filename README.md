@@ -30,7 +30,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](public/screenshot.png)
 
 A web-based note-taking application designed to streamline your digital note-keeping experience. With an intuitive and user-friendly interface, empowers you to effortlessly add, delete, and archive notes, ensuring that your thoughts and ideas are always organized and accessible.
 
